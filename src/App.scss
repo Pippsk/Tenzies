@@ -1,0 +1,31 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    flex-direction: column;
+
+
+.dice-container{
+    display: grid;
+    grid-template-columns:repeat(5, 1fr) ;
+    gap: 2rem;
+    
+    padding: 2rem;
+    
+}
+.dice-btn{
+    padding: 1rem 2rem;
+    background-color: rgb(101, 177, 248);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+p{
+    margin-top: 50px;
+    font-size: 2rem;
+    color: rgb(5, 13, 55);
+}
+
+}

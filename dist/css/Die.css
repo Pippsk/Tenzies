@@ -1,0 +1,11 @@
+.die {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: rgb(160, 91, 91);
+  border-radius: 5px;
+  cursor: pointer;
+}/*# sourceMappingURL=Die.css.map */
